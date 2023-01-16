@@ -15,7 +15,7 @@
 </div>
 
 <span >
-	<img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=Java&logoColor=white" />
-	<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=Python" />
-	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=Vue" />
+	<img  src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=Java&logoColor=white" />
+	<img  src="https://img.shields.io/badge/-Python-1572B6?style=flat-square&logo=Python" />
+	<img  src="https://img.shields.io/badge/-Vue-oringe?style=flat-square&logo=Vue" />
 </span>
