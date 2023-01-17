@@ -13,8 +13,8 @@ I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kuberne
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/testng/testng-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/playwriter/android-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
@@ -43,17 +43,7 @@ I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kuberne
 
 <div align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=dzapologize&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
-</div>
-
-<span >
-	<img  src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=Java&logoColor=white" />
-	<img  src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=Python&logoColor=red" />
-	<img  src="https://img.shields.io/badge/-Vue-E34F26?style=flat-square&logo=Vue&logoColor=green" />
-	<img  src="https://img.shields.io/badge/-Python-1572B6?style=flat-square&logo=Python" />
-	<img  src="https://img.shields.io/badge/-Vue-oringe?style=flat-square&logo=Vue" />
-</span>
-
-<div align="center">
+</div><div align="center">
     <img  src="https://visitor-badge.glitch.me/badge?page_id=dzapologize" />
 </div>
 
