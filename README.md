@@ -21,3 +21,7 @@
 	<img  src="https://img.shields.io/badge/-Python-1572B6?style=flat-square&logo=Python" />
 	<img  src="https://img.shields.io/badge/-Vue-oringe?style=flat-square&logo=Vue" />
 </span>
+
+<div align="center">
+    <img  src="https://visitor-badge.glitch.me/badge?page_id=dzapologize" />
+</div>
