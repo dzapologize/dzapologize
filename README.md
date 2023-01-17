@@ -1,14 +1,14 @@
-# Hello there 👋
-
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-
-I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈   
-
 <h1 align="center">
   <a href="http://www.postcode.vip/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=卖枸杞的程序员祝您今天愉快!&center=true&size=27">
   </a>
 </h1>
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
+I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈   
+
+
 
 <div align="center">
     <img src="https://metrics.lecoq.io/dzapologize?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai">
