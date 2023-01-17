@@ -1,3 +1,9 @@
+# Hello there 👋
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
+I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈   
+
 <h1 align="center">
   <a href="http://www.postcode.vip/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=卖枸杞的程序员祝您今天愉快!&center=true&size=27">
