@@ -36,5 +36,5 @@ def test_tqdm():
         tasks = [executor.submit(lambda p: download_file(*p), args)]
     wait(tasks)
 
-
-test_tqdm()
+if __name__ == '__main__':
+    test_tqdm()
